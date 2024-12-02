@@ -18,3 +18,13 @@ margin-bottom: 2rem;
 width: 300px;
 
 }
+
+.navbar{
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+
+.navbar .container{
+    width: 100% !important;
+}
